@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "description": "A web application to manage scheduling",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "eslint": "^3.12.2"
+  }
+}
